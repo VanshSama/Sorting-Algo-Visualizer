@@ -21,7 +21,7 @@ A web-based, interactive visualizer for learning and exploring classic sorting a
 
 ## Demo
 
-Try it live here: [Sorting Algorithm Visualizer]([https://sorting-algo-viz.netlify.app](https://sorting-algo-visualizer-iota.vercel.app/)) (hosted on Vercel)
+Try it live here: [Sorting Algorithm Visualizer](https://sorting-algo-visualizer-iota.vercel.app/) (hosted on Vercel)
 
 ## 🚀 Getting Started
 
